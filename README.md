@@ -20,7 +20,6 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ## Marketing Skills
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Wordpress-006b98?logo=Wordpress&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Wordpress_Gutenberg-006b98?logo=Gutenberg&logoColor=white" />]()
-[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Sheets-006b98?logo=GoogleSheets&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Ads-006b98?logo=GoogleAds&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/LinkdedIn_Ads-006b98?logo=linkedin&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Facebook_Ads-006b98?logo=facebook&logoColor=white" />]()
@@ -30,6 +29,7 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Mailchimp-006b98?logo=Mailchimp&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Mailchimp_API-006b98?logo=Mailchimp&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Analytics-006b98?logo=GoogleAnalytics&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Optimize-006b98?logo=GoogleOptimize&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/SEMrush-006b98?logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Asana-006b98?logo=Asana&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/SEO-006b98?logoColor=white" />]()
@@ -49,8 +49,8 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Subbly-006b98" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/GoDaddy-006b98?logo=GoDaddy&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/WooCommerce-006b98?logo=WooCommerce&logoColor=white" />]()
-[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Optimize-006b98?logo=GoogleOptimize&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Microsoft_Excel-006b98?logo=MicrosoftExcel&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Sheets-006b98?logo=GoogleSheets&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Adobe_Photoshop-006b98?logo=AdobePhotoshop&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Adobe_Lightroom-006b98?logo=AdobeLightroom&logoColor=white" />]()
 
