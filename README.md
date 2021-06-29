@@ -6,31 +6,31 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 
 ## Skills
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Wordpress-006b98?&logo=Wordpress&logoColor=white" />]()
-[<img style="margin-top:4px;" src="https://img.shields.io/badge/Gutenberg-888?&logo=Gutenberg&logoColor=white" />]()
-<img style="margin-top:4px;" src="https://img.shields.io/badge/TypeScript-888?&logo=TypeScript&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/JavaScript-888?&logo=Javascript&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Apps_Script-888?&logo=Google&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/HTML5-888?&logo=HTML5&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/CSS3-888?&logo=CSS3&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/LESS-888?&logo=LESS&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Visual_Studio_Code-888?&logo=VisualStudioCode&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Microsoft_SQL_Server-888?&logo=MicrosoftSQLServer&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Optimize-888?&logo=GoogleOptimize&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Sheets-888?&logo=GoogleSheets&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Ads-888?&logo=GoogleAds&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/LinkdedIn_Ads-888?&logo=linkedin&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Facebook_Ads-888?&logo=facebook&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Twitter_Ads-888?&logo=Twitter&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_MyBusiness-888?&logo=GoogleMyBusiness&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_TagManager-888?&logo=googletagmanager&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Mailchimp-888?&logo=Mailchimp&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Mailchimp_API-888?&logo=Mailchimp&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Analytics-888?&logo=GoogleAnalytics&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Shopify-888?&logo=Shopify&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/SquareSpace-888?&logo=SquareSpace&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Wix-888?&logo=Wix&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Adobe_Photoshop-888?&logo=AdobePhotoshop&logoColor=white" />
-<img style="margin-top:4px;" src="https://img.shields.io/badge/Adobe_Lightroom-888?&logo=AdobeLightroom&logoColor=white" />
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Gutenberg-006b98?&logo=Gutenberg&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/TypeScript-006b98?&logo=TypeScript&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/JavaScript-006b98?&logo=Javascript&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Apps_Script-006b98?&logo=Google&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/HTML5-006b98?&logo=HTML5&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/CSS3-006b98?&logo=CSS3&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/LESS-006b98?&logo=LESS&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Visual_Studio_Code-006b98?&logo=VisualStudioCode&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Microsoft_SQL_Server-006b98?&logo=MicrosoftSQLServer&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Optimize-006b98?&logo=GoogleOptimize&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Sheets-006b98?&logo=GoogleSheets&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Ads-006b98?&logo=GoogleAds&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/LinkdedIn_Ads-006b98?&logo=linkedin&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Facebook_Ads-006b98?&logo=facebook&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Twitter_Ads-006b98?&logo=Twitter&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_MyBusiness-006b98?&logo=GoogleMyBusiness&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_TagManager-006b98?&logo=googletagmanager&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Mailchimp-006b98?&logo=Mailchimp&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Mailchimp_API-006b98?&logo=Mailchimp&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Google_Analytics-006b98?&logo=GoogleAnalytics&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Shopify-006b98?&logo=Shopify&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/SquareSpace-006b98?&logo=SquareSpace&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Wix-006b98?&logo=Wix&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Adobe_Photoshop-006b98?&logo=AdobePhotoshop&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Adobe_Lightroom-006b98?&logo=AdobeLightroom&logoColor=white" />]()
 <br/>
 
 ## Connect with me
