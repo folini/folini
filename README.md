@@ -16,9 +16,11 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ![BitBucket](https://img.shields.io/badge/BitBucket-006b98?logo=BitBucket&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-006b98?logo=Jira&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-006b98?logo=WebPack&logoColor=white)
-![Transact-SQL](https://img.shields.io/badge/tSQL-006b98?logoColor=white)
+![Transact-SQL](https://img.shields.io/badge/t_SQL-006b98?logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-006b98?logo=MicrosoftSQLServer&logoColor=white)
 ![ASP Classic](https://img.shields.io/badge/ASP_Classic-006b98?logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-006b98?logoColor=white)
+![machine Learning](https://img.shields.io/badge/Machine_Learning-006b98?logoColor=white)
 
 ## Marketing Skills
 ![Wordpress](https://img.shields.io/badge/Wordpress-006b98?logo=Wordpress&logoColor=white)
@@ -46,6 +48,7 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ![KPI](https://img.shields.io/badge/KPI-006b98?logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-006b98?logoColor=white)
 ![Customer Journey](https://img.shields.io/badge/Customer_Journey-006b98?logoColor=white)
+![Social Media Marketing](https://img.shields.io/badge/SocialMedia_Marketing-006b98?logoColor=white)
 
 
 
