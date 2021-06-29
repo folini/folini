@@ -5,7 +5,7 @@ I am a _Marketing Director_ | _eCommerce Strategist_ | _Digital Subscriptions Mo
 My tagline is: _Connecting people, leveraging marketing & technology for a better eCommerce experience_
 
 ## Skills
-[<img style="margin-top:4px;" src="https://img.shields.io/badge/Wordpress-888?&logo=Wordpress&logoColor=white" />]()
+[<img style="margin-top:4px;" src="https://img.shields.io/badge/Wordpress-006b98?&logo=Wordpress&logoColor=white" />]()
 [<img style="margin-top:4px;" src="https://img.shields.io/badge/Gutenberg-888?&logo=Gutenberg&logoColor=white" />]()
 <img style="margin-top:4px;" src="https://img.shields.io/badge/TypeScript-888?&logo=TypeScript&logoColor=white" />
 <img style="margin-top:4px;" src="https://img.shields.io/badge/JavaScript-888?&logo=Javascript&logoColor=white" />
