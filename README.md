@@ -1,6 +1,7 @@
 ### Hi there
 
-**folini/folini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Franco Folini**, a __Marketing Director__ | __eCommerce Strategist__ | __Digital Subscriptions Model Expert__ 
+My tagline is: __Connecting people, leveraging marketing & technology for a better eCommerce experience__
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francofolini/)
