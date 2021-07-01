@@ -22,7 +22,7 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ![Project Management](https://img.shields.io/badge/Project_Management-006b98?logoColor=white)
 ![machine Learning](https://img.shields.io/badge/Machine_Learning-006b98?logoColor=white)
 
-## Marketing Skills
+## Digital Marketing Skills
 ![Wordpress](https://img.shields.io/badge/Wordpress-006b98?logo=Wordpress&logoColor=white)
 ![Wordpress Gutenberg](https://img.shields.io/badge/Wordpress_Gutenberg-006b98?logo=Gutenberg&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-006b98?logo=GoogleAds&logoColor=white)
