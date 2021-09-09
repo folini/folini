@@ -8,7 +8,6 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ![TypeScript](https://img.shields.io/badge/TypeScript-006b98?logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-006b98?logo=Javascript&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-006b98?logo=Javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C_Sharp-006b98?logo=CSharp&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-006b98?logo=Google&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-006b98?logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-006b98?logo=CSS3&logoColor=white)
@@ -20,6 +19,7 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ![Transact-SQL](https://img.shields.io/badge/t_SQL-006b98?logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-006b98?logo=MicrosoftSQLServer&logoColor=white)
 ![ASP Classic](https://img.shields.io/badge/ASP_Classic-006b98?logoColor=white)
+![C Sharp](https://img.shields.io/badge/C_Sharp-006b98?logo=CSharp&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project_Management-006b98?logoColor=white)
 ![machine Learning](https://img.shields.io/badge/Machine_Learning-006b98?logoColor=white)
 
