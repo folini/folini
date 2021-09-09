@@ -7,7 +7,7 @@ My tagline is: _Connecting people, leveraging marketing & technology for a bette
 ## Development Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-006b98?logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-006b98?logo=Javascript&logoColor=white)
-![Jest](https://img.shields.io/badge/JavaScript-006b98?logo=Javascript&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-006b98?logo=Javascript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-006b98?logo=CSharp&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-006b98?logo=Google&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-006b98?logo=HTML5&logoColor=white)
